@@ -1,0 +1,25 @@
+.weather__form{
+    display: flex;
+}
+
+.weather__input{
+    padding: 10px 0px 10px 20px;
+    font-size: 17px;
+    border: 1px solid grey;
+    float: left;
+    width: 100px;
+    background: #f1f1f1;
+    border-radius: 20px 0 0 20px;
+}
+
+.weather__button{
+    float: left;
+    width: 100px;
+    padding: 10px;
+    background: rgb(120, 4, 244);
+    color: white;
+    font-size: 17px;
+    border: none;
+    border-radius: 0 20px 20px 0;
+    cursor: pointer;
+}
